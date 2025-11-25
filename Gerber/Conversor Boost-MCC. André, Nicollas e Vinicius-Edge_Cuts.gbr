@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.4*%
+%TF.CreationDate,2025-11-25T15:00:47-03:00*%
+%TF.ProjectId,Conversor Boost-MCC. Andr__ Nicollas e Vinicius,436f6e76-6572-4736-9f72-20426f6f7374,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.4) date 2025-11-25 15:00:47*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X34500000Y-18000000D02*
+X138000000Y-18000000D01*
+X138000000Y-59000000D01*
+X34500000Y-59000000D01*
+X34500000Y-18000000D01*
+M02*

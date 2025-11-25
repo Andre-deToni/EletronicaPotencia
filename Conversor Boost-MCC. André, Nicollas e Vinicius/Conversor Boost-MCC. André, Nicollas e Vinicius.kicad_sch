@@ -4780,7 +4780,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 171.45 77.47 0)
 			(effects
 				(font
@@ -5256,7 +5256,7 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 77.47 27.94 90)
+		(at 77.47 27.94 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5896,7 +5896,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
 			(at 143.51 90.17 0)
 			(effects
 				(font
